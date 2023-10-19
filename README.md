@@ -160,8 +160,8 @@ Step 11: Evaluate the final model
 
 1. CONFUSION MATRIX - `FINAL`
 
-    ![Alt text](image.png)
-
+    ![Alt text](image-3.png)
+    
     After resampling the data, the Confusion Matrix is as follows:
 
     The below confusion matrix represents the performance of a classification model that predicts student adaptability into three classes: "High", "Low" and "Moderate". 
